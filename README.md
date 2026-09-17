@@ -73,7 +73,7 @@ ChatApp/
 
 GitHub Repository
 
-View the ChatApp GitHub Repository
+https://github.com/Neo3004/ChatApp.git
 
 YouTube Demonstration
 
