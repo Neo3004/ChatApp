@@ -82,6 +82,11 @@ This project helped me practise:
 * Using Git and GitHub
 * Debugging Java programs
 
+Project Links
+
+https://github.com/Neo3004/ChatApp.git
+
+
 Author
 
 Developed as part of a student software development project.
