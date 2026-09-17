@@ -76,8 +76,8 @@ GitHub Repository
 https://github.com/Neo3004/ChatApp.git
 
 YouTube Demonstration
+https://youtube.com/shorts/KO-RrQAkN4s?si=5uCRPaXHhYUOeIm4
 
-Watch the ChatApp Demonstration
 
 🎓 Project Purpose
 
